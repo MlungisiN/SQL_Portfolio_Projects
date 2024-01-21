@@ -6,7 +6,8 @@ Welcome to my portfolio project repository! Here you will find all of the code a
 
 - [Project 1: NorthWind Traders Sales Analysis](https://github.com/MlungisiN/NorthWind_Traders_Data_Analysis/blob/main/DATA_ANALYSIS/Northwind_Traders_Data_Analysis.sql)
 - [Project 2: Covid-19 Data Analysis](https://github.com/MlungisiN/Covid_Data_Analysis/blob/main/DATA_ANALYSIS/Covid%2019%20Data%20Analysis%20Project.sql)
-- [Project 3: Nashville Housing Project](https://github.com/MlungisiN/Data_Cleaning_Nashille_Housing_Project/blob/main/Data_Cleaning/Nahsville_Housing_Data_Cleaning_Project.sql)
+- [Project 3: Flu Shot (Vaccination) Analysis](https://github.com/MlungisiN/Flu_Shots_Analysis/blob/main/Flu_Shots_Data_Analysis.sql)
+- [Project 4: Nashville Housing Project](https://github.com/MlungisiN/Data_Cleaning_Nashille_Housing_Project/blob/main/Data_Cleaning/Nahsville_Housing_Data_Cleaning_Project.sql)
 
 Feel free to browse through the code and use it as inspiration for your own projects. If you have any questions or feedback, don't hesitate to reach out.
 
